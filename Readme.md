@@ -5,6 +5,8 @@ A powerful financial document analysis dashboard that leverages AI to extract an
 ![alt text](image-1.png)
 ![alt text](image.png)
 
+## Financial Dashboard Backend - https://github.com/gokulnpc/Financial-Dashboard-Backend
+
 ## Features
 
 - 📊 **Automated Financial Analysis**: Extract key metrics from financial documents automatically
