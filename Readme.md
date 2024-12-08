@@ -2,7 +2,9 @@
 
 A powerful financial document analysis dashboard that leverages AI to extract and visualize key business metrics from your financial documents.
 
-![FinanceAI Dashboard](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=1000)
+![alt text](image-1.png)
+![alt text](image.png)
+[text](<../../Desktop/Screen Recording 2024-12-08 at 1.02.22 PM.mov>)
 
 ## Features
 
