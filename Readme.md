@@ -4,7 +4,6 @@ A powerful financial document analysis dashboard that leverages AI to extract an
 
 ![alt text](image-1.png)
 ![alt text](image.png)
-[text](<../../Desktop/Screen Recording 2024-12-08 at 1.02.22 PM.mov>)
 
 ## Features
 
